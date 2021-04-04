@@ -8,7 +8,7 @@
 
 Фотография 1
 
-![2](/BuidingsInfo/4e740e22-87bd-4b8e-a967-4bf895fcf3c4/60.3.Проектдоходного дома Н.А.Бугрова_Compressed.jpg)
+![2](/BuidingsInfo/4e740e22-87bd-4b8e-a967-4bf895fcf3c4/60.3.ПроектдоходногодомаН.А.Бугрова_Compressed.jpg)
 
 Фотография 2
 

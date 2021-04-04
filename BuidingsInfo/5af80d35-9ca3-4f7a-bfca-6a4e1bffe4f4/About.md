@@ -44,7 +44,7 @@
 
 Фотография 10
 
-![11](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/Благ соб_Compressed.jpg)
+![11](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/Благсоб_Compressed.jpg)
 
 Фотография 11
 

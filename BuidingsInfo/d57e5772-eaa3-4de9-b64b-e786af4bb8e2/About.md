@@ -12,15 +12,15 @@
 
 Фотография 2
 
-![3](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/6.1 Общий вид_Compressed.jpg)
+![3](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/6.1Общийвид_Compressed.jpg)
 
 Фотография 3
 
-![4](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/6.2 Западный фасад_Compressed.jpg)
+![4](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/6.2Западныйфасад_Compressed.jpg)
 
 Фотография 4
 
-![5](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/6.4 Южный фасад_Compressed.jpg)
+![5](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/6.4Южныйфасад_Compressed.jpg)
 
 Фотография 5
 
