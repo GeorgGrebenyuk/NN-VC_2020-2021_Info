@@ -4,19 +4,19 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/1_Compressed.jpg)
+![1](/BuidingsInfo/d1a029d6-3807-4c50-9ee7-474c2af9ea7e/1_Compressed.jpg)
 
 Фотография 1
 
-![1](/7.1. Здание Госбанка_Compressed.jpg)
+![2](/BuidingsInfo/d1a029d6-3807-4c50-9ee7-474c2af9ea7e/7.1. Здание Госбанка_Compressed.jpg)
 
 Фотография 2
 
-![2](/7.5.Вид на здание  госбанк_Compressed.jpg)
+![3](/BuidingsInfo/d1a029d6-3807-4c50-9ee7-474c2af9ea7e/7.5.Вид на здание  госбанк_Compressed.jpg)
 
 Фотография 3
 
-![3](/7.6. Проект госбанка. чертёж фасада_Compressed.jpg)
+![4](/BuidingsInfo/d1a029d6-3807-4c50-9ee7-474c2af9ea7e/7.6. Проект госбанка. чертёж фасада_Compressed.jpg)
+
+Фотография 4
 

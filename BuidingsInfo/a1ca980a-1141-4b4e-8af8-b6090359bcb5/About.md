@@ -4,71 +4,71 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/01_Compressed.jpg)
+![1](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/01_Compressed.jpg)
 
 Фотография 1
 
-![1](/02_Compressed.jpg)
+![2](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/02_Compressed.jpg)
 
 Фотография 2
 
-![2](/03_Compressed.jpg)
+![3](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/03_Compressed.jpg)
 
 Фотография 3
 
-![3](/04_Compressed.jpg)
+![4](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/04_Compressed.jpg)
 
 Фотография 4
 
-![4](/05_Compressed.jpg)
+![5](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/05_Compressed.jpg)
 
 Фотография 5
 
-![5](/06_Compressed.jpg)
+![6](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/06_Compressed.jpg)
 
 Фотография 6
 
-![6](/07_Compressed.jpg)
+![7](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/07_Compressed.jpg)
 
 Фотография 7
 
-![7](/08_Compressed.jpg)
+![8](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/08_Compressed.jpg)
 
 Фотография 8
 
-![8](/09_Compressed.jpg)
+![9](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/09_Compressed.jpg)
 
 Фотография 9
 
-![9](/10_Compressed.jpg)
+![10](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/10_Compressed.jpg)
 
 Фотография 10
 
-![10](/11_Compressed.jpg)
+![11](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/11_Compressed.jpg)
 
 Фотография 11
 
-![11](/12_Compressed.jpg)
+![12](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/12_Compressed.jpg)
 
 Фотография 12
 
-![12](/13_Compressed.jpg)
+![13](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/13_Compressed.jpg)
 
 Фотография 13
 
-![13](/P1270377_Compressed.jpg)
+![14](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/P1270377_Compressed.jpg)
 
 Фотография 14
 
-![14](/P1270378_Compressed.jpg)
+![15](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/P1270378_Compressed.jpg)
 
 Фотография 15
 
-![15](/P1270379_Compressed.jpg)
+![16](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/P1270379_Compressed.jpg)
 
 Фотография 16
 
-![16](/P1270385_Compressed.jpg)
+![17](/BuidingsInfo/a1ca980a-1141-4b4e-8af8-b6090359bcb5/P1270385_Compressed.jpg)
+
+Фотография 17
 

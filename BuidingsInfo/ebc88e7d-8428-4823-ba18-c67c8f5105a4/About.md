@@ -4,11 +4,11 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/P1270235_Compressed.jpg)
+![1](/BuidingsInfo/ebc88e7d-8428-4823-ba18-c67c8f5105a4/P1270235_Compressed.jpg)
 
 Фотография 1
 
-![1](/P1270236_Compressed.jpg)
+![2](/BuidingsInfo/ebc88e7d-8428-4823-ba18-c67c8f5105a4/P1270236_Compressed.jpg)
+
+Фотография 2
 

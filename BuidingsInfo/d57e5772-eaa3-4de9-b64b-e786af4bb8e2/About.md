@@ -4,55 +4,55 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/1_Compressed.jpg)
+![1](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/1_Compressed.jpg)
 
 Фотография 1
 
-![1](/2_Compressed.jpg)
+![2](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/2_Compressed.jpg)
 
 Фотография 2
 
-![2](/6.1 Общий вид_Compressed.jpg)
+![3](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/6.1 Общий вид_Compressed.jpg)
 
 Фотография 3
 
-![3](/6.2 Западный фасад_Compressed.jpg)
+![4](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/6.2 Западный фасад_Compressed.jpg)
 
 Фотография 4
 
-![4](/6.4 Южный фасад_Compressed.jpg)
+![5](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/6.4 Южный фасад_Compressed.jpg)
 
 Фотография 5
 
-![5](/P1270424_Compressed.jpg)
+![6](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/P1270424_Compressed.jpg)
 
 Фотография 6
 
-![6](/P1270425_Compressed.jpg)
+![7](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/P1270425_Compressed.jpg)
 
 Фотография 7
 
-![7](/P1270426_Compressed.jpg)
+![8](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/P1270426_Compressed.jpg)
 
 Фотография 8
 
-![8](/P1270427_Compressed.jpg)
+![9](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/P1270427_Compressed.jpg)
 
 Фотография 9
 
-![9](/P1270428_Compressed.jpg)
+![10](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/P1270428_Compressed.jpg)
 
 Фотография 10
 
-![10](/P1270429_Compressed.jpg)
+![11](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/P1270429_Compressed.jpg)
 
 Фотография 11
 
-![11](/P1270430_Compressed.jpg)
+![12](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/P1270430_Compressed.jpg)
 
 Фотография 12
 
-![12](/P1270431_Compressed.jpg)
+![13](/BuidingsInfo/d57e5772-eaa3-4de9-b64b-e786af4bb8e2/P1270431_Compressed.jpg)
+
+Фотография 13
 

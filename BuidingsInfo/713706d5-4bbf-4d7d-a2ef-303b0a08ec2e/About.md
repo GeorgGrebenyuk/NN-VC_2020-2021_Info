@@ -4,11 +4,11 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/1_Compressed.jpg)
+![1](/BuidingsInfo/713706d5-4bbf-4d7d-a2ef-303b0a08ec2e/1_Compressed.jpg)
 
 Фотография 1
 
-![1](/35.1_Compressed.jpg)
+![2](/BuidingsInfo/713706d5-4bbf-4d7d-a2ef-303b0a08ec2e/35.1_Compressed.jpg)
+
+Фотография 2
 

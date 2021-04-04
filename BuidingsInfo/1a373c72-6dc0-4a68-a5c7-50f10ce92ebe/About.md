@@ -4,19 +4,19 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/1_Compressed.jpg)
+![1](/BuidingsInfo/1a373c72-6dc0-4a68-a5c7-50f10ce92ebe/1_Compressed.jpg)
 
 Фотография 1
 
-![1](/2_Compressed.jpg)
+![2](/BuidingsInfo/1a373c72-6dc0-4a68-a5c7-50f10ce92ebe/2_Compressed.jpg)
 
 Фотография 2
 
-![2](/3_Compressed.jpg)
+![3](/BuidingsInfo/1a373c72-6dc0-4a68-a5c7-50f10ce92ebe/3_Compressed.jpg)
 
 Фотография 3
 
-![3](/4_Compressed.jpg)
+![4](/BuidingsInfo/1a373c72-6dc0-4a68-a5c7-50f10ce92ebe/4_Compressed.jpg)
+
+Фотография 4
 

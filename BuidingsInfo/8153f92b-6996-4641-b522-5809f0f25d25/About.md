@@ -4,31 +4,31 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/1_Compressed.jpg)
+![1](/BuidingsInfo/8153f92b-6996-4641-b522-5809f0f25d25/1_Compressed.jpg)
 
 Фотография 1
 
-![1](/2_Compressed.jpg)
+![2](/BuidingsInfo/8153f92b-6996-4641-b522-5809f0f25d25/2_Compressed.jpg)
 
 Фотография 2
 
-![2](/3_Compressed.jpg)
+![3](/BuidingsInfo/8153f92b-6996-4641-b522-5809f0f25d25/3_Compressed.jpg)
 
 Фотография 3
 
-![3](/4_Compressed.jpg)
+![4](/BuidingsInfo/8153f92b-6996-4641-b522-5809f0f25d25/4_Compressed.jpg)
 
 Фотография 4
 
-![4](/5_Compressed.jpg)
+![5](/BuidingsInfo/8153f92b-6996-4641-b522-5809f0f25d25/5_Compressed.jpg)
 
 Фотография 5
 
-![5](/6_Compressed.jpg)
+![6](/BuidingsInfo/8153f92b-6996-4641-b522-5809f0f25d25/6_Compressed.jpg)
 
 Фотография 6
 
-![6](/Компоновка_Compressed.jpg)
+![7](/BuidingsInfo/8153f92b-6996-4641-b522-5809f0f25d25/Компоновка_Compressed.jpg)
+
+Фотография 7
 

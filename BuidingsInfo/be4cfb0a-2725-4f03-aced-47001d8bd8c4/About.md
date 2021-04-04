@@ -4,7 +4,7 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
+![1](/BuidingsInfo/be4cfb0a-2725-4f03-aced-47001d8bd8c4/P1270286_Compressed.jpg)
 
-![0](/P1270286_Compressed.jpg)
+Фотография 1
 

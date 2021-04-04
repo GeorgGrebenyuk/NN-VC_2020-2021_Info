@@ -4,59 +4,59 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/2 Вида_Compressed.jpg)
+![1](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/2 Вида_Compressed.jpg)
 
 Фотография 1
 
-![1](/Аксрнометрия_Compressed.jpg)
+![2](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/Аксрнометрия_Compressed.jpg)
 
 Фотография 2
 
-![2](/Восточный фасад_Compressed.jpg)
+![3](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/Восточный фасад_Compressed.jpg)
 
 Фотография 3
 
-![3](/генплан_Compressed.jpg)
+![4](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/генплан_Compressed.jpg)
 
 Фотография 4
 
-![4](/Западный фасад_Compressed.jpg)
+![5](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/Западный фасад_Compressed.jpg)
 
 Фотография 5
 
-![5](/План 2 этажа_Compressed.jpg)
+![6](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/План 2 этажа_Compressed.jpg)
 
 Фотография 6
 
-![6](/План Агафонова_Compressed.jpg)
+![7](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/План Агафонова_Compressed.jpg)
 
 Фотография 7
 
-![7](/Разрез 1-1_Compressed.jpg)
+![8](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/Разрез 1-1_Compressed.jpg)
 
 Фотография 8
 
-![8](/Разрез 2-2_Compressed.jpg)
+![9](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/Разрез 2-2_Compressed.jpg)
 
 Фотография 9
 
-![9](/Разрез 3-3_Compressed.jpg)
+![10](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/Разрез 3-3_Compressed.jpg)
 
 Фотография 10
 
-![10](/Северный фасад_Compressed.jpg)
+![11](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/Северный фасад_Compressed.jpg)
 
 Фотография 11
 
-![11](/Фрагмент 1_Compressed.jpg)
+![12](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/Фрагмент 1_Compressed.jpg)
 
 Фотография 12
 
-![12](/Фрагмент 2_Compressed.jpg)
+![13](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/Фрагмент 2_Compressed.jpg)
 
 Фотография 13
 
-![13](/Южный фасад_Compressed.jpg)
+![14](/BuidingsInfo/175c17f5-16de-4c95-860d-21270760d2f7/Южный фасад_Compressed.jpg)
+
+Фотография 14
 

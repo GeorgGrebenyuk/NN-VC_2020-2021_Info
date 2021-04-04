@@ -4,47 +4,47 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/1_Compressed.jpg)
+![1](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/1_Compressed.jpg)
 
 Фотография 1
 
-![1](/2_Compressed.jpg)
+![2](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/2_Compressed.jpg)
 
 Фотография 2
 
-![2](/3_Compressed.jpg)
+![3](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/3_Compressed.jpg)
 
 Фотография 3
 
-![3](/4_Compressed.jpg)
+![4](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/4_Compressed.jpg)
 
 Фотография 4
 
-![4](/img035_Compressed.jpg)
+![5](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/img035_Compressed.jpg)
 
 Фотография 5
 
-![5](/img512a_Compressed.jpg)
+![6](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/img512a_Compressed.jpg)
 
 Фотография 6
 
-![6](/img782aa_Compressed.jpg)
+![7](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/img782aa_Compressed.jpg)
 
 Фотография 7
 
-![7](/Безимени-16_Compressed.jpg)
+![8](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/Безимени-16_Compressed.jpg)
 
 Фотография 8
 
-![8](/Безимени-17_Compressed.jpg)
+![9](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/Безимени-17_Compressed.jpg)
 
 Фотография 9
 
-![9](/Безимени-18_Compressed.jpg)
+![10](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/Безимени-18_Compressed.jpg)
 
 Фотография 10
 
-![10](/Благ соб_Compressed.jpg)
+![11](/BuidingsInfo/5af80d35-9ca3-4f7a-bfca-6a4e1bffe4f4/Благ соб_Compressed.jpg)
+
+Фотография 11
 

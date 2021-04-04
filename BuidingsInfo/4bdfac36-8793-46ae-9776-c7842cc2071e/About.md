@@ -4,23 +4,23 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/P1270256_Compressed.jpg)
+![1](/BuidingsInfo/4bdfac36-8793-46ae-9776-c7842cc2071e/P1270256_Compressed.jpg)
 
 Фотография 1
 
-![1](/P1270257_Compressed.jpg)
+![2](/BuidingsInfo/4bdfac36-8793-46ae-9776-c7842cc2071e/P1270257_Compressed.jpg)
 
 Фотография 2
 
-![2](/P1270258_Compressed.jpg)
+![3](/BuidingsInfo/4bdfac36-8793-46ae-9776-c7842cc2071e/P1270258_Compressed.jpg)
 
 Фотография 3
 
-![3](/P1270259_Compressed.jpg)
+![4](/BuidingsInfo/4bdfac36-8793-46ae-9776-c7842cc2071e/P1270259_Compressed.jpg)
 
 Фотография 4
 
-![4](/P1270260_Compressed.jpg)
+![5](/BuidingsInfo/4bdfac36-8793-46ae-9776-c7842cc2071e/P1270260_Compressed.jpg)
+
+Фотография 5
 

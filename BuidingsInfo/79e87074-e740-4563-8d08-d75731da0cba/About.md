@@ -4,19 +4,19 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/1_Compressed.jpg)
+![1](/BuidingsInfo/79e87074-e740-4563-8d08-d75731da0cba/1_Compressed.jpg)
 
 Фотография 1
 
-![1](/4.2.Главный фасад_Compressed.jpg)
+![2](/BuidingsInfo/79e87074-e740-4563-8d08-d75731da0cba/4.2.Главный фасад_Compressed.jpg)
 
 Фотография 2
 
-![2](/4.4.Главный фасад.Чертеж_Compressed.jpg)
+![3](/BuidingsInfo/79e87074-e740-4563-8d08-d75731da0cba/4.4.Главный фасад.Чертеж_Compressed.jpg)
 
 Фотография 3
 
-![3](/4.5.Общий вид гор.театра_Compressed.jpg)
+![4](/BuidingsInfo/79e87074-e740-4563-8d08-d75731da0cba/4.5.Общий вид гор.театра_Compressed.jpg)
+
+Фотография 4
 

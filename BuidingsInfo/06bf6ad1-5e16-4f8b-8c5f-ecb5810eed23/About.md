@@ -4,15 +4,15 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
-
-![0](/1_Compressed.jpg)
+![1](/BuidingsInfo/06bf6ad1-5e16-4f8b-8c5f-ecb5810eed23/1_Compressed.jpg)
 
 Фотография 1
 
-![1](/P1270418_Compressed.jpg)
+![2](/BuidingsInfo/06bf6ad1-5e16-4f8b-8c5f-ecb5810eed23/P1270418_Compressed.jpg)
 
 Фотография 2
 
-![2](/P1270419_Compressed.jpg)
+![3](/BuidingsInfo/06bf6ad1-5e16-4f8b-8c5f-ecb5810eed23/P1270419_Compressed.jpg)
+
+Фотография 3
 

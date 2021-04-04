@@ -4,7 +4,7 @@
 
 ## Фотографии и архивные материалы
 
-Фотография 0
+![1](/BuidingsInfo/e4853f80-47df-488c-ab38-c9bf3823bf37/1_Compressed.jpg)
 
-![0](/1_Compressed.jpg)
+Фотография 1
 
